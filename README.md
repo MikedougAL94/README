@@ -1,11 +1,12 @@
-- 👋 Hi, I’m @MikeAL94
-- 👀 I’m interested in bioiformatics
-- 🌱 I’m currently learning Linux, Python and tecnology
-- 💞️ I’m looking to collaborate on Linux and AI knowledgement
-- 📫 How to reach me mikedouglasal94@gmail.com
-- 😄 Pronouns: he/him
+<h1 align="center">Hello! My name is Michael</h1>
 
-<!---
-MikeAL94/MikeAL94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h3 align="center"> A Data Scientist from Brazil. 🎲 🇧🇷 </h3>
+
+<h3 align="center" > 🔬 Tools:</h3> <p align="center"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<h3 align="center">
+
+---
+
+![MikeA GitHub stats](https://github-readme-stats.vercel.app/api?username=MikeAL94&theme=dark&show_icons=true)
+
