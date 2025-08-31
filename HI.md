@@ -1,19 +1,30 @@
-<h1 align="center">Hello! My name is Michael</h1>
+<h1 align="center"> Hi! 👋 My name is Michael</h1>
 
-<h3 align="center"> A Data Scientist from Brazil. 🎲 🇧🇷 </h3>
+<h3 align="center" > A DataScientist from Brazil 🎲 🇧🇷</h3>
 
-<h3 align="left" > 🔬 Tools:</h3> <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="20" height="20"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="20" height="20"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> </a> </p>
+<h4> Bio: </h4>
 
+I am studying to become a data scientist, and I have decided to share this journey with you! 
 
-
-
-
-<h3 align="center">
-
----
+- 🎓 College: Universidade Virtual de São Paulo (UNIVESP)
+ 
+- 🎯 Goal: Become a data scientist and researcher in Computational Neuroscience field 
 
 
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://kaggle.com/https://www.kaggle.com/michael115al" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/michael115al" height="30" width="40" /></a>
+</p>
 
-![MikeA GitHub stats](https://github-readme-stats.vercel.app/api?username=MikeAL94&theme=dark&show_icons=true)
+<h3 align="left"> 🛠️ Tools: </h3> 
 
+<h3>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"  height="40" with="40"><img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="40" width="40"></h3> 
+
+
+<h3 align="center"> 
+
+![MikeA GitHub stats](https://github-readme-stats.vercel.app/api?username=MikedougAL94&theme=dark&show_icons=true)
+
+</h3>

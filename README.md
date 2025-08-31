@@ -2,11 +2,25 @@
 
 <h3 align="center"> A Data Scientist from Brazil. 🎲 🇧🇷 </h3>
 
-<h3 align="center" > 🔬 Tools:</h3> <p align="center"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<h2> About: </h2>
 
-<h3 align="center">
+- 🎓 University : Universidade Virtual de São Paulo (UNIVESP);
 
----
+- 📚 Studying: Probality, Statistic and Python; 
 
-![MikeA GitHub stats](https://github-readme-stats.vercel.app/api?username=MikeAL94&theme=dark&show_icons=true)
+- 🥾 Sharing my journey to become a Data Scientist 
+
+
+
+
+
+<h2> 🔬 Tools:</h2> 
+
+![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)  ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+
+
+
+
+![MikeA GitHub stats](https://github-readme-stats.vercel.app/api?username=MikeAL94&theme=dark&show_icons=true) 
+
 
